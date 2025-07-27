@@ -7,7 +7,7 @@
     <title>FARM2B Limited - Empowering Africa's Agriculture</title>
     <meta property="og:title" content="FARM2B Limited - Empowering Africa's Agriculture">
     <meta property="og:description" content="A dynamic agribusiness company revolutionizing agriculture in Sub-Saharan Africa through inclusive growth and innovation.">
-    <meta property="og:image" content="{{ asset('img/logo.svg') }}">
+    <meta property="og:image" content="{{ asset('img/favicon.png') }}">
     <link rel="shortcut icon" href="{{ asset('img/favicon.png') }}" type="image/x-icon">
     <link rel="shortcut icon" href="{{ asset('img/favicon.ico') }}" type="image/x-icon">
     <script src="https://cdn.tailwindcss.com"></script>
