@@ -22,6 +22,7 @@
                             Partner With Us <i class="bi bi-chevron-right ml-3 group-hover:ml-5 transition-al duration-300"></i> </a>
                     </div>
                 </div>
+
                 <!-- <div class="floating">
                     <div class="bg-white/10 backdrop-blur-md rounded-3xl p-8 border border-white/30">
                         <div class="grid grid-cols-2 gap-6">
@@ -43,6 +44,7 @@
                         </div>
                     </div>
                 </div> -->
+                
             </div>
         </div>
     </section>
